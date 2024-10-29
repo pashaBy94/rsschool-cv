@@ -29,3 +29,58 @@
 - ***Cloud services:*** *Firebase, CloudVPS, Hostfly*
 
 ---
+
+## Code examples
+
+```JavaScript
+    let i = 0;
+    let result;
+    while(i++ < 6){
+        let array = [];
+    for(let i=0; i<=1000000;i++){
+        if(i%2){
+            array.push(-Math.floor(Math.random()*100))
+        }else{
+            array.push(Math.floor(Math.random()*100))
+        }
+    }
+    result = fastestSorting(array); // This function will sort the array 6 times faster than the sort method
+    }
+```
+---
+
+## Work experience
+
+### Projects
+1. ***Guider***  
+   - *Description: Сreating an application for tourism*.  
+   - *Technologies used: Next JS, Toolkit, Leaflet, Firebase, Next Auth, SASS, TypeScript, React-hook-form, Emotion.*
+   - *Link to the project:* [*Guider.pro.*](https://guider.pro/) 
+
+2. ***App for Yandex*** 
+   - *Description: This is a game for Yandex games.*  
+   - *Technologies used: HTML, CSS, JS.*
+   - *Link to the project:* [*Camera Pazzle.*](https://pashaby94.github.io/camera_pazzle/) 
+   3
+3. ***Pet project*** 
+   - *Description: This is a notebook with a timer.*  
+   - *Technologies used: HTML, CSS, VUE, Tailwindcss, VITE.*
+   - *Link to the code:* [*Notebook.*](https://github.com/pashaBy94/vue_pet) 
+   
+---
+
+## Education
+
+- ***University:*** 
+  - [*Belarusian State University of Informatics and Radioelectronics.*](https://www.bsuir.by/en/?ysclid=m2ubvd14rn572939500)
+
+- ***Сourses:*** 
+  - *Internet technologies: JavaScript Development MDA Agency.*
+
+---
+
+
+## English language
+
+ - ***Level:*** *Intermediate.* 
+ - ***Language practice:*** *I take courses on YouTube.*
